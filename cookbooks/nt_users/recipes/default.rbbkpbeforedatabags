@@ -1,0 +1,4 @@
+user "jenkins" do
+  comment "Jenkins User for implementing CI/CD"
+  password "jenkins123"
+end

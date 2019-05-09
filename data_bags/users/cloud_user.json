@@ -1,0 +1,9 @@
+{
+	"id": "cloud_user",
+	"password": "$1$3e6H5btv$rcZ8BvbNVFrPsJl4IrLof.",
+	"uid": 1001,
+	"groups": ["wheel","dev"],
+	"ssh_keys": [
+	  "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC+MbBwLlDNGgo7+ipmuktGGYztV8ZKpxevGTs9/XrScj9UfQB7/tMRfmhXcdZ0JRp57LJgjiI3EVZgH+MqCYD8z8Oe7v/25XB1VTMcVOWEOBesz1VrYOfu/Gcn2RYF7RyVNyQFXQAkMYzzZ6OE9a2Homvvv4vJtksSdBJM1Ha9OLmTP13mD8/eXksttWUS/dOd1R3YZmxF/qTSJzUrX2kT3kkNdCS3sxQ0LsrOU7dNwjrlXamfF2T8jH/B+diwus0MsrWQ49VEpL8H0dXycmSuLFuTKNdrFRNS6jfwbn312+LBiOql7K57pyct79oA/+wp8Huf7Iq2ovjslACRYhX ketan@paratussystems.com"
+		]
+}

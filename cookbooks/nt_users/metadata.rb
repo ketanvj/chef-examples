@@ -1,0 +1,10 @@
+name 'nt_users'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'All Rights Reserved'
+description 'Installs/Configures nt_users'
+long_description 'Installs/Configures nt_users'
+version '1.0.0'
+chef_version '>= 13.0'
+depends 'users', '~> 5.4.0'
+
